@@ -1,0 +1,22 @@
+{
+  "employerList": [
+    {
+      "id": "b053",
+      "name": "Арсен",
+      "surname": "Люпен",
+      "active": true
+    },
+    {
+      "id": "65d4",
+      "name": "Арнольд",
+      "surname": "Арнольдович",
+      "active": true
+    },
+    {
+      "id": "6db8",
+      "name": "Стефан",
+      "surname": "Стефанович",
+      "active": true
+    }
+  ]
+}

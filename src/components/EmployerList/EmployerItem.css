@@ -1,0 +1,59 @@
+.employer-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid silver;
+}
+
+.employer-item__number {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.employer-item__info-block {
+  display: flex;
+  gap: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.employer-item__info {
+  height: 23px;
+  border: none;
+  resize: none;
+  background-color: white;
+  color: rgb(15, 15, 15);
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.employer-item__active {
+  height: 25px;
+  border: 1px solid silver;
+}
+
+.active-textarea {
+  background-color: rgb(105, 105, 105);
+}
+
+.employer-item__info_name {}
+.employer-item__info_surname {}
+
+.employer-item__action-block {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+}
+
+.employer-item__btn {
+  background-color: silver;
+  cursor: pointer;
+}
+
+.employer-item__btn_edit {}
+.employer-item__btn_del {}
