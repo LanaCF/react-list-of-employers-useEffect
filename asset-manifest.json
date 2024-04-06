@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-list-of-employers-useEffect/static/css/main.78cf17fc.css",
+    "main.js": "/react-list-of-employers-useEffect/static/js/main.5f696d0d.js",
+    "index.html": "/react-list-of-employers-useEffect/index.html",
+    "main.78cf17fc.css.map": "/react-list-of-employers-useEffect/static/css/main.78cf17fc.css.map",
+    "main.5f696d0d.js.map": "/react-list-of-employers-useEffect/static/js/main.5f696d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78cf17fc.css",
+    "static/js/main.5f696d0d.js"
+  ]
+}
